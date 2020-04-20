@@ -1,6 +1,6 @@
 # Processing Shaders- by MarcosJSP
 
-The objective of this project is to get familiarized  with processing shaders. 
+The objective of this project is to get familiarized  with using shaders on Processing. 
 
 The project uses shaders to create a black and white pattern:
 
